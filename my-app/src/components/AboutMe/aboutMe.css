@@ -1,10 +1,13 @@
-/* .experience-container{
-  margin: 0 118px 0 118px;
-} */
-
-
-.experience-title{
+.aboutMe-conatiner{
   margin-top: 54px;
+  height: 550px;
+  width: 550px;
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+}
+
+.title{
   height: 82px;
   width: 806px;
   color: #000000;
@@ -15,24 +18,25 @@
   line-height: 81.6px;
 }
 
-.experience-info{
+.photo{
+   height: 197px;
+  width: 197px;
+}
+
+.aboutMe-info{
   padding-top: 40px;
   height: 81px;
-  width: 630px;
+  width: 550px;
   color: #000000;
   font-family: 'Rubik';
   font-size: 18px;
   letter-spacing: 0.38px;
   line-height: 26px;
-  padding-bottom: 20px
+  padding-bottom: 20px;
 }
 
-.resume{
-  padding-top: 40px;
-  color: #FF6007;
-  font-family: 'Rubik';
-  font-size: 18px;
-  font-weight: bold;
-  letter-spacing: 0.38px;
-  line-height: 28px;
+.spotify-iframe{
+  align-content: center;
+  margin-left: 45px;
+  padding: 80px;
 }

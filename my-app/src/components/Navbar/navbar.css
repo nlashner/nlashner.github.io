@@ -1,7 +1,7 @@
 .navbar{
   display: flex;
-  justify-content: space-around;
-  margin: 30px 20px;
+  justify-content: space-between;
+  /* margin: 30px 20px; */
   align-items: center;
   font-weight: bold;
   font-size: 18px;
@@ -27,4 +27,5 @@
 .right-item{
   margin: 0 30px 0 30px;
 }
+
 
