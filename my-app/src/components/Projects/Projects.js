@@ -1,7 +1,7 @@
 
 import React from 'react'
 import './projects.css'
-import logo from '../Navbar/Logo_Black.png'
+import logo from '../../img/Logo_Black.png'
 
 const Projects = () => {
   return (
