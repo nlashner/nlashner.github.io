@@ -21,7 +21,7 @@
 }
 
 .projects-container{
-  margin-top: 54px;
+  margin-top: 0px 54px 0px 54px;
 }
 
 .project-image{
@@ -37,7 +37,6 @@
   padding: 40px;
 
 }
-
 
 .project-title{
   height: 34px;

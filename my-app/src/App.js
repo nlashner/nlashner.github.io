@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './components/Navbar/Navbar'
 import Intro from './components/Intro/Intro'
 import Projects from './components/Projects/Projects'
-import logo from './logo.svg';
+import Experience from './components/Experince/Experience'
 import './App.css';
 
 function App() {
@@ -11,6 +11,7 @@ function App() {
       <Navbar />
       <Intro />
       <Projects />
+      <Experience />
     </div>
   );
 }
