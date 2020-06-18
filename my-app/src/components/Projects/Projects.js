@@ -6,7 +6,7 @@ import logo from '../../img/Logo_Black.png'
 const Projects = () => {
   return (
     <div>
-      <div className='projects'>
+      <div id='projects'>
       <div className='projects-title'>My Projects</div>
       <div className='projects-container'>
 

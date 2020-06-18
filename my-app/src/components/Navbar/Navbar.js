@@ -9,13 +9,16 @@ const Navbar = () => {
 
     <div className="left">
     <img src={logo} className='nav-logo' alt='logo'></img>
-    <p>nlashner@gmail.com</p>
+    <a
+      href={'mailto:nlashner@gmail.com'}
+      className='nav-link'
+      >nlashner@gmail.com</a>
     </div>
 
     <div className="right">
-    <p className='right-item'>My Projects</p>
-    <p className='right-item'>Experience</p>
-    <p className='right-item'>About Me</p>
+    <a href='#projects' className='right-item nav-link'>My Projects</a>
+    <a href='#experience' className='right-item nav-link'>Experience</a>
+    <a  href='#aboutMe' className='right-item nav-link'>About Me</a>
     </div>
   </div>
   )
