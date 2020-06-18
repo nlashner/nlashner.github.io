@@ -1,0 +1,72 @@
+
+.projects{
+  margin: 0 118px 0 118px;
+}
+
+.projects-title{
+  height: 82px;
+  width: 806px;
+  color: #000000;
+  font-family: "Playfair Display";
+  font-size: 68px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 81.6px;
+}
+
+.project{
+  display: flex;
+  justify-content: center;
+  margin-top: 54px;
+}
+
+.projects-container{
+  margin-top: 54px;
+}
+
+.project-image{
+  height: 287px;
+  width: 595px;
+}
+
+.project-info{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: left;
+  padding: 40px;
+
+}
+
+
+.project-title{
+  height: 34px;
+  width: 242px;
+  color: #000000;
+  font-family: "Playfair Display";
+  font-size: 36px;
+  font-weight: 900;
+  letter-spacing: 0.75px;
+  line-height: 33.6px;
+}
+
+.project-desc{
+  height: 81px;
+  width: 430px;
+  color: #000000;
+  font-family: 'Rubik';
+  font-size: 18px;
+  letter-spacing: 0.38px;
+  line-height: 26px;
+  padding-bottom: 20px
+}
+
+.link{
+  color: #FF6007;
+  font-family: 'Rubik';
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0.38px;
+  line-height: 28px;
+}
+
