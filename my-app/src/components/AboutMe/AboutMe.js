@@ -10,12 +10,12 @@ const AboutMe = () => {
       <img src={picture} className="photo" alt="nora-photo"></img>
       <div className="title">About Me</div>
       <div className='aboutMe-info'>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.
+      Hi! You made it to the end of my site :) Thanks!! Though I geuninely love work, I’m my happiest self when I’m surrounded by friends and people I love. Fortunately, New York City, is full of opportunities for that. I spend most of my time outside of work catching up with friends, meeting new people, and taking advantage of all the city has to offer.  On a typical weekend you can catch me at Nom Wah Tea Parlor, the Wayland or Mister Sundays.
       </div>
       </div>
 
       <div className='spotify-iframe'>
-      <iframe src="https://open.spotify.com/embed/playlist/60c0vcILpnnUCf33lTUe8u" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <iframe src="https://open.spotify.com/embed/playlist/60c0vcILpnnUCf33lTUe8u" width="300" height="470" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </div>
 
     </div>
