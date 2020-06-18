@@ -13,10 +13,18 @@ const Footer = () => {
       <img src={logo} alt='logo' className='logo-footer'></img>
       </div>
       <div>
-      <img src={twitter} alt='logo' className='social-icon'></img>
-      <img src={linkedin} alt='logo' className='social-icon'></img>
-      <img src={github} alt='logo' className='social-icon'></img>
-      <img src={angelist} alt='logo' className='social-icon'></img>
+        <a href='https://twitter.com/nlashner' target='_blank'>
+          <img src={twitter} alt='logo' className='social-icon'/>
+        </a>
+        <a href='https://www.linkedin.com/in/noralashner/' target='_blank'>
+          <img src={linkedin} alt='logo' className='social-icon'></img>
+        </a>
+        <a href='https://github.com/nlashner' target='_blank'>
+          <img src={github} alt='logo' className='social-icon'></img>
+        </a>
+        <a href='https://angel.co/u/nora-lashner-1' target='_blank'>
+          <img src={angelist} alt='logo' className='social-icon'></img>
+        </a>
       </div>
       <div className='footer-email'>nlashner@gmail.com</div>
     </div>

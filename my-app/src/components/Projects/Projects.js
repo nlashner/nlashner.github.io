@@ -2,6 +2,8 @@
 import React from 'react'
 import './projects.css'
 import logo from '../../img/Logo_Black.png'
+import diagonElley from '../../img/diagonElley.png'
+import chefRemy from '../../img/chefRemy.png'
 
 const Projects = () => {
   return (
@@ -13,30 +15,30 @@ const Projects = () => {
         <div className='project'>
           <img src={logo} className='project-image' alt='project-picture'></img>
           <div className='project-info'>
-            <div className='project-title'>title</div>
-            <div className='project-desc'>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor .</div>
-            <a className='link'>link</a>
-            <a className='link'>link</a>
+            <div className='project-title'>Queue</div>
+            <div className='project-desc'>Queue is a Google Chrome extension and a web application that allows users to save music tracks from all different sites to listen to it later.</div>
+            <a className='link'>Github</a>
+            <a className='link'>Website</a>
           </div>
         </div>
 
         <div className='project'>
           <div className='project-info'>
-            <div className='project-title'>title</div>
-            <div className='project-desc'>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor .</div>
-            <a className='link'>link</a>
-            <a className='link'>link</a>
+            <div className='project-title'>Chef Remy</div>
+            <div className='project-desc'>Chef Remy is a website and an Alexa skill that allows users to manage their kitchen inventory, and get recipes based on items they have in stock.</div>
+            <a  href='https://github.com/GHP-Warpaint/remi' target='_blank' className='link'>Github</a>
+            <a href='https://chef-remy.herokuapp.com/' target='_blank' className='link'>Website</a>
           </div>
-          <img src={logo} className='project-image' alt='project-picture'></img>
+          <img src={chefRemy} className='project-image' alt='project-picture'></img>
         </div>
 
         <div className='project'>
-        <img src={logo} className='project-image' alt='project-picture'></img>
+        <img src={diagonElley} className='project-image' alt='project-picture'></img>
           <div className='project-info'>
-            <div className='project-title'>title</div>
-            <div className='project-desc'>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor .</div>
-            <a className='link'>link</a>
-            <a className='link'>link</a>
+            <div className='project-title'>Diagon E-lley</div>
+            <div className='project-desc'>Diagon E-lley is an e-commerce site that allows Hogwarts students to get supplies that they might need for the upcoming school year.</div>
+            <a href='https://github.com/Rosalina-and-luma/grace-shopper' target='_blank' className='link'>Github</a>
+            <a href='https://diagon-e-lley.herokuapp.com/' target='_blank' className='link'>Website</a>
           </div>
         </div>
 
