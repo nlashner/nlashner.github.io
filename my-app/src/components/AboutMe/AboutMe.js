@@ -15,7 +15,7 @@ const AboutMe = () => {
       </div>
 
       <div className='spotify-iframe'>
-      <iframe src="https://open.spotify.com/embed/playlist/60c0vcILpnnUCf33lTUe8u" width="300" height="470" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <iframe src="https://open.spotify.com/embed/playlist/6i1qp1b9E0c0BDGNaryPIs" width="300" height="470" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </div>
 
     </div>

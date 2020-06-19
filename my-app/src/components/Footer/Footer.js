@@ -8,6 +8,7 @@ import './footer.css'
 
 const Footer = () => {
   return (
+    <div>
     <div className='footer'>
       <div>
       <img src={logo} alt='logo' className='logo-footer'></img>
@@ -27,6 +28,8 @@ const Footer = () => {
         </a>
       </div>
       <div className='footer-email'>nlashner@gmail.com</div>
+    </div>
+
     </div>
   )
 }
