@@ -14,7 +14,8 @@ const Projects = () => {
       <div className='projects-container'>
 
         <div className='project'>
-          <img src={queueExt} className='queue-image project-image-mobile' alt='project-picture' ></img>
+          <img src={queueExt} className='queue-image' alt='project-picture' ></img>
+          <img src={queueExt} className='project-image-mobile' alt='project-picture' ></img>
           <div className='project-info'>
             <div className='project-title'>Queue</div>
             <div className='project-desc'>Queue is a Google Chrome extension and a web application that allows users to save music tracks from all different sites to listen to it later.</div>
@@ -35,7 +36,8 @@ const Projects = () => {
         </div>
 
         <div className='project'>
-        <img src={diagonElley} className='project-image project-image-mobile' alt='project-picture'></img>
+        <img src={diagonElley} className='project-image' alt='project-picture'></img>
+        <img src={diagonElley} className='project-image-mobile' alt='project-picture'></img>
           <div className='project-info'>
             <div className='project-title'>Diagon E-lley</div>
             <div className='project-desc'>Diagon E-lley is an e-commerce site that allows Hogwarts students to get supplies that they might need for the upcoming school year.</div>
