@@ -9,7 +9,7 @@ const Intro = () => {
       <div className='name'>Lashner</div>
       <div className='rectangle'></div>
       </div>
-      <p className="intro-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor .</p>
+      <p className="intro-text">Hi! I’m a fullstack software engineer based in New York City.  After working on the go-to-market side of companies, I decided I wanted to help build products rather than sell them.  I love solving problems, desiging processes, and meeting new people. If you’re in New York and looking for a fullstack engineer to join your team, let’s chat!</p>
     </div>
   )
 }

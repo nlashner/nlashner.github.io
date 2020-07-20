@@ -10,7 +10,7 @@ const AboutMe = () => {
       <img src={picture} className="photo" alt="nora-photo"></img>
       <div className="title">About Me</div>
       <div className='aboutMe-info'>
-      Hi! You made it to the end of my site :) Thanks!! Though I geuninely love work, I’m my happiest self when I’m surrounded by friends and people I love. Fortunately, New York City, is full of opportunities for that. I spend most of my time outside of work catching up with friends, meeting new people, and taking advantage of all the city has to offer.  On a typical weekend you can catch me at Nom Wah Tea Parlor, the Wayland or Mister Sundays.
+      I love the constant energy of New York City and spend most of my time outside of work taking advantage of all the city has to offer. On a typical (pre-covid) weekend you can find me at oyster happy hour at the Wayland, eating dim sum at Nom Wah Tea Parlor, or on the dance floor at Mister Sundays.
       </div>
       </div>
 
