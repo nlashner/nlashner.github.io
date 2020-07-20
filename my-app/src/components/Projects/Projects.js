@@ -4,6 +4,7 @@ import './projects.css'
 import logo from '../../img/Logo_Black.png'
 import diagonElley from '../../img/diagonElley.png'
 import chefRemy from '../../img/chefRemy.png'
+import queueExt from '../../img/queueApp.png'
 
 const Projects = () => {
   return (
@@ -13,12 +14,12 @@ const Projects = () => {
       <div className='projects-container'>
 
         <div className='project'>
-          <img src={logo} className='project-image' alt='project-picture'></img>
+          <img src={queueExt} className='queue-image' alt='project-picture' ></img>
           <div className='project-info'>
             <div className='project-title'>Queue</div>
             <div className='project-desc'>Queue is a Google Chrome extension and a web application that allows users to save music tracks from all different sites to listen to it later.</div>
-            <a className='link'>Github</a>
-            <a className='link'>Website</a>
+            <a href='https://github.com/nlashner/queueapp' target='_blank' className='link'>Github</a>
+            {/* <a className='link'>Website</a> */}
           </div>
         </div>
 

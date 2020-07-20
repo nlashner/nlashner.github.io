@@ -20,6 +20,12 @@
   margin-top: 0px 54px 0px 54px;
 }
 
+.queue-image{
+  height: 243px;
+  width: 400px;
+  padding: 0px 60px 0px 40px;
+  border-radius: 5px;
+}
 
 .project-image{
   height: 243px;
