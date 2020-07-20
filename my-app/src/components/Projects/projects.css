@@ -13,6 +13,7 @@
 .project{
   display: flex;
   justify-content: center;
+  align-items: center;
   margin-top: 54px;
 }
 
@@ -20,16 +21,10 @@
   margin-top: 0px 54px 0px 54px;
 }
 
-.queue-image{
-  height: 243px;
-  width: 400px;
-  padding: 0px 60px 0px 40px;
-  border-radius: 5px;
-}
 
 .project-image{
   height: 243px;
-  width: 447px;
+  width: 420px;
   border-radius: 5px;
 }
 
@@ -55,7 +50,7 @@
   font-weight: 900;
   letter-spacing: 0.75px;
   line-height: 33.6px;
-  padding-bottom: 5px;
+  padding-bottom: 15px;
 }
 
 .project-desc{

@@ -14,7 +14,7 @@ const Projects = () => {
       <div className='projects-container'>
 
         <div className='project'>
-          <img src={queueExt} className='queue-image' alt='project-picture' ></img>
+          <img src={queueExt} className='project-image' alt='project-picture' ></img>
           <img src={queueExt} className='project-image-mobile' alt='project-picture' ></img>
           <div className='project-info'>
             <div className='project-title'>Queue</div>
@@ -32,7 +32,7 @@ const Projects = () => {
             <a  href='https://github.com/GHP-Warpaint/remi' target='_blank' className='link'>Github</a>
             <a href='https://chef-remy.herokuapp.com/' target='_blank' className='link'>Website</a>
           </div>
-          <img src={chefRemy} className='project-image  ' alt='project-picture'></img>
+          <img src={chefRemy} className='project-image' alt='project-picture'></img>
         </div>
 
         <div className='project'>
