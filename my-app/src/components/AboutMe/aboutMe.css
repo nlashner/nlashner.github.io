@@ -19,7 +19,7 @@
 }
 
 .photo{
-   height: 197px;
+  height: 197px;
   width: 197px;
 }
 
@@ -39,4 +39,21 @@
   align-content: center;
   margin-left: 45px;
   padding: 80px;
+}
+
+@media screen and (max-width:800px) {
+  .aboutMe-conatiner{
+    flex-direction: column;
+    justify-content: space-around;
+    padding-top: 300px;
+  }
+
+  .photo{
+    align-content: center;
+  }
+
+  .spotify-iframe{
+    align-content: center;
+    margin: 300px 0px;
+  }
 }

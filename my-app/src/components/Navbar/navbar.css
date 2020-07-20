@@ -40,7 +40,17 @@ a.nav-link:hover{
   text-decoration: none;
 }
 
+@media screen and (max-width:800px) {
+  .navbar{
+    display: flex;
+    justify-content: space-evenly;
+    /* margin: 5px; */
+    align-items: center;
+    /* font-weight: bold; */
+    font-size: 12px;
+  }
 
-
-
-
+  .right-item{
+    margin: 0px;
+  }
+}

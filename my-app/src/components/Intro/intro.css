@@ -37,4 +37,11 @@
   line-height: 37px;
 }
 
+@media screen and (max-width:800px) {
+  .intro-container{
+    margin: 0px;
+    font: 'Rubik';
+  }
+}
+
 
