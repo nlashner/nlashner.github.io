@@ -11,11 +11,14 @@
   margin: 54px 118px 0px 118px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media screen and (max-width:800px) {
+  .app-container{
+    margin: 54px 100px 0px 70px;
   }
+
 }
+
+
 
 .App-header {
   background-color: #282c34;

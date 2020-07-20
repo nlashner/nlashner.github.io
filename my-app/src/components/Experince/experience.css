@@ -39,9 +39,8 @@
 @media screen and (max-width:800px) {
   .experience-info{
   margin: 0px;
+  width: 620px;
   padding-top: 40px;
-  height: 150px;
-  width: 500px;
   color: #000000;
   font-family: 'Rubik';
   font-size: 18px;

@@ -95,10 +95,10 @@
 
   .project-image-mobile{
     display: inline-block;
-    height: 100px;
+    height: 130px;
     width: 200px;
     align-items: center;
-    padding-left: 50px
+    padding-left: 150px
   }
 
 }

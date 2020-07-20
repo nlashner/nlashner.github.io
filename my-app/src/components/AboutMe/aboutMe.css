@@ -46,6 +46,7 @@
     flex-direction: column;
     justify-content: space-around;
     padding-top: 300px;
+    width: 620px;
   }
 
   .photo{

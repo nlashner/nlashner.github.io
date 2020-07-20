@@ -54,3 +54,20 @@ a.nav-link:hover{
     margin: 0px;
   }
 }
+
+@media screen and (max-width:400px) {
+  .navbar{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    margin: 0px;
+    align-items: center;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 24px;
+  }
+  .right-item{
+    margin: 0px;
+  }
+}
+
