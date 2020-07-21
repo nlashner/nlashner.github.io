@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8624956f.chunk.css",
+    "main.js": "/static/js/main.c1580dda.chunk.js",
+    "main.js.map": "/static/js/main.c1580dda.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/js/2.648c3eee.chunk.js": "/static/js/2.648c3eee.chunk.js",
+    "static/js/2.648c3eee.chunk.js.map": "/static/js/2.648c3eee.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f80520050c9d98f568b252a29174dade.js": "/precache-manifest.f80520050c9d98f568b252a29174dade.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8624956f.chunk.css.map": "/static/css/main.8624956f.chunk.css.map",
+    "static/js/2.648c3eee.chunk.js.LICENSE.txt": "/static/js/2.648c3eee.chunk.js.LICENSE.txt",
+    "static/media/AngelistB.png": "/static/media/AngelistB.08a90552.png",
+    "static/media/GithubB.png": "/static/media/GithubB.6cc1a508.png",
+    "static/media/IMG_0561.png": "/static/media/IMG_0561.17a0ccd9.png",
+    "static/media/LinkedInB.png": "/static/media/LinkedInB.538f5d98.png",
+    "static/media/Logo_Black.png": "/static/media/Logo_Black.54050dc5.png",
+    "static/media/Logo_KO.png": "/static/media/Logo_KO.7a89ac8a.png",
+    "static/media/TwitterB.png": "/static/media/TwitterB.4ce7b318.png",
+    "static/media/chefRemy.png": "/static/media/chefRemy.6b29451c.png",
+    "static/media/diagonElley.png": "/static/media/diagonElley.484f428f.png",
+    "static/media/queueApp.png": "/static/media/queueApp.e61fe630.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/2.648c3eee.chunk.js",
+    "static/css/main.8624956f.chunk.css",
+    "static/js/main.c1580dda.chunk.js"
+  ]
+}
